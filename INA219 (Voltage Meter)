@@ -1,2 +1,6 @@
 Here is a tutorial page for how the INA219 chip works and sample code used.
 https://www.rototron.info/raspberry-pi-ina219-tutorial/
+
+
+Run this line of code in turminal before coding:
+  sudo pip install git+git://github.com/chrisb2/pi_ina219.git
