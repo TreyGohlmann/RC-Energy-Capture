@@ -1,2 +1,2 @@
-# EGR-385
-EGR Capstone, where coding will be stored
+# PTC-Creo
+These are the parts that were 3D printed for the rc car, all stl files were found online.
