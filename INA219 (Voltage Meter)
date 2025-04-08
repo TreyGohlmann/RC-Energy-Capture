@@ -3,5 +3,7 @@ https://www.rototron.info/raspberry-pi-ina219-tutorial/
 
 https://learn.adafruit.com/adafruit-ina219-current-sensor-breakout/python-circuitpython
 
-Run this line of code in turminal before coding:
-  sudo pip install git+git://github.com/chrisb2/pi_ina219.git
+Create a venv on the raspberry pi within the coding folder due to external libraries
+
+Install adafruit_ina219 library
+  
