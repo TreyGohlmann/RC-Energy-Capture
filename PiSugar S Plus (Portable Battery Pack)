@@ -1,0 +1,3 @@
+The PiSugar S Plus model connects to the Raspberry Pi using pressure pins and has a external power switch. 
+Ensure the remote boot toggle switch is turned off to utilize i2c bus 1.
+  https://www.pisugar.com/products/pisugar-s-plus-raspberry-pi-ups
