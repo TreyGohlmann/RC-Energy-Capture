@@ -20,7 +20,7 @@ Generator:
 - A standard electric motor DC motor was used.
 
 Turbine:
--A toridal turbine design was used based on it's efficency when compaired to other designs.
+- A toroidal turbine design was used based on it's efficency when compaired to other designs.
 
 A-Frame Turbine Mount:
 - An a-frame mounting bracket was used to elevate the turbine+generator away from the base of the rc car.
