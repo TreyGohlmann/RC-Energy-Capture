@@ -7,7 +7,7 @@ This is an engineering capstone project which is a proof of concept for capturin
 # Componants
 
 Raspberry Pi:
-- We used a raspberry pi 3b+ to read, compute, and store power readings from rc motor and turbine generator.
+- We used a raspberry pi 3B+ to read, compute, and store power readings from rc motor and turbine generator.
 
 INA219 Voltage Sensors (quantity: 2):
 - The INA219 voltage sensors read the voltage drop across a 0.1 ohm. Then sends the voltage data via the i2c bus to the raspberry pi.
